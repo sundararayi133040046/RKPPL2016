@@ -6,7 +6,8 @@ public class KelasLatihan {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("Hello Dunia");
-		RAYI HANUM WKWKKW
+		
+		System.out.println("Hello - Adele")
 	}
 
 }
